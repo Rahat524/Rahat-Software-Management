@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rahat524.github.io/Rahat-Software-Management/sitemap.xml
